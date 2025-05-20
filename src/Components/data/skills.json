@@ -1,0 +1,47 @@
+ 
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://verpex.com/assets/uploads/images/blog/Basic-HTML-Codes-for-Websites.webp?v=1691760654"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://media.istockphoto.com/id/1284271878/photo/javascript-inscription-against-laptop-and-code-background-learn-javascript-programming.jpg?s=612x612&w=0&k=20&c=H9FI5X3ZBQIyEijvhJc-jv5McwCh-BxqQPxee9Aoa08="
+  },
+  {
+  "title":"React",
+  "imageSrc":"https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/uCcwj4q1e8Tx91Ce5En11NdE"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "https://www.infoworld.com/wp-content/uploads/2024/06/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-orig.jpg?quality=50&strip=all&w=1024"
+  },
+  {
+    "title":"Bootstrap",
+    "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRUjaa956bobu3GkHAZ0tRKvt0R_GH0VXmA&s"
+  },
+  {
+    "title":"Tailwind",
+    "imageSrc":"https://miro.medium.com/v2/resize:fit:1400/1*__f27S-qQF2CAASt5bOwqg.png"
+  },
+   {
+    "title":"MySQL",
+    "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3VpCXe2YuZJjEKlLWgp2lP0nagqIRADhDQ&s"
+  },
+   {
+    "title":"DSA",
+    "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYRCuSaw-qp_EmS-efeDu4MVtl3Y_f9bK3A&s"
+  },
+  {
+    "title":"C++",
+    "imageSrc":"https://cacm.acm.org/wp-content/uploads/2025/01/012225.BLOG_.21st-Century-C-G.jpg"
+  }
+]

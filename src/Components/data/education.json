@@ -1,0 +1,44 @@
+
+[
+  {
+    "id": 1,
+    "name": "RAMAPATI I C DHARMPUR PARVAT KUSHINAGAR",
+    "class": "High School(UP Board)",
+    "percent":"83.16%",
+    "startDate": "June, 2017",
+    "endDate": "April, 2019",
+    "location": "Dharmpur Parvat",
+    "imageSrc": "https://content.jdmagicbox.com/v2/comp/kushinagar/e7/9999p5564.5564.180907002120.a7e7/catalogue/ramapati-intermediate-college-dharmpur-parwat-kushinagar-colleges-HAFfND2FOf.jpg"
+  },
+    {
+    "id": 2,
+    "name": "L M I C JANKI NAGAR SEORAHI KUSHINAGAR",
+    "class":"Intermediate(UP Board)",
+    "percent":"79.8%",
+    "startDate": "JuLY, 2019",
+    "endDate": "April, 2021",
+    "location": "Tamkuhi Road",
+    "imageSrc": "https://content.jdmagicbox.com/comp/kushinagar/w3/9999p5564.5564.180328165233.e2w3/catalogue/lokmanya-inter-college-kushinagar-colleges-0ysgqwo8pi.jpg"
+  },
+    {
+    "id": 3,
+    "name": "DEEN DAYAL UPADHYAYA GORAKHPUR UNIVERSITY",
+    "class":"Bachelor Of Science(Maths)",
+    "percent":"8.50/10 CGPA",
+    "startDate": "August, 2021",
+    "endDate": "June, 2024",
+    "location": "Gorakhpur",
+    "imageSrc": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2022/05/29/main-qimg-05ad105bb4d22bfee3284502324a7ac4-1162653_1653838127.png"
+  },
+   {
+    "id": 4,
+    "name": "MADAN MOHAN MALVIYA UNIVERSITY OF TECHNOLOGY",
+    "class":"Master Of computer Application",
+    "percent":"8.25/10 CGPA(1st Sem)",
+    "startDate": "August, 2024",
+    "endDate": "June, 2026",
+    "location": "Gorakhpur",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d4/MMMUT_campus.jpg"
+  } 
+]
+
