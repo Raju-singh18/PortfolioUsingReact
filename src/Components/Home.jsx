@@ -1,6 +1,6 @@
 import React from 'react'
 import pdf from '../pdf/RajuResume(college).pdf'
-import hero from '../assets/hero/hero.jpg'
+import profile from '../assets/hero/profile.png'
 import Typed from "typed.js";
 import { useEffect } from 'react';
 import { useRef } from 'react';
@@ -12,9 +12,9 @@ export const Home = () => {
 
         const options = {
             strings:[
-                "Welcome to my profile",
+                "Welcome to My profile",
                 "My name is Raju Singh",
-                "I am a full Stack developer"
+                "I am a Full Stack Web Developer"
             ],
             typeSpeed:50,
             backSpeed:50,
@@ -30,8 +30,8 @@ export const Home = () => {
   return (
     <div className='container home' id="Home">
         <div className="left"
-        data-aos="fade-up-right"
-        data-aos-duration="1000"
+           data-aos="fade-up-right"
+           data-aos-duration="500"
         >
             <h1 ref={typedRef}></h1>
 
@@ -48,7 +48,7 @@ export const Home = () => {
             data-aos="fade-up-left"
             data-aos-duration="1000"
             >
-                <img src={hero}
+                <img src={profile}
                  alt="hero"
                 />
             </div>

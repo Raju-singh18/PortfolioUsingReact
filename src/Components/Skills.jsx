@@ -7,7 +7,7 @@ export const Skills = () => {
        <div className="container skills" id='Skills'>
             <h1
              data-aos="zoom-out-right"
-             data-aos-duration="1000"
+             data-aos-duration="500"
             >Technical Skills</h1>
             <div className="items" > 
              {
@@ -19,7 +19,7 @@ export const Skills = () => {
                               className="item" 
                               key={data.id}
                               data-aos="flip-left"
-                              data-aos-duration="1000"
+                              data-aos-duration="500"
                               >
                                  <img src={data.imageSrc} alt="" />
                                  <h3>{data.title}</h3>

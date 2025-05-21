@@ -14,14 +14,14 @@ export const Contact = () => {
       <div className="container contact" id='Contact'>
         <h1
         data-aos="zoom-out-right"
-        data-aos-duration="1000"
+        data-aos-duration="500"
         >CONTACT ME</h1>
           <br />
                <Form/>
           
         <div className="contact-icon"
         data-aos="zoom-in-up"
-        data-aos-duration="1000"
+        data-aos-duration="500"
         >
             <a href="https://www.google.com" className="items">
                 <FaInstagram className='icons'/>

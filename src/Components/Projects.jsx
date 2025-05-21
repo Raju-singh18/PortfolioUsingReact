@@ -7,7 +7,7 @@ export const Projects = () => {
       <div className="container projects my-3" id='Project'>
         <h1
          data-aos="zoom-out-right"
-         data-aos-duration="1000"
+         data-aos-duration="500"
         >PROJECT</h1>
         <div className="row d-flex justify-content-center align-content-center">
             {projects.map((data)=>(
@@ -23,7 +23,7 @@ export const Projects = () => {
                         boxShadow:'5px 5px 10px 10px rgba(101,175,10,0.5)'
                       }}
                             data-aos="flip-right"
-                            data-aos-duration="1000" 
+                            data-aos-duration="500" 
                      >
                       <div className='img  d-flex justify-content-center align-content-center p-3'>
                          <img 
@@ -47,7 +47,7 @@ export const Projects = () => {
                         <a href={data.demo} className='btn btn-primary mx-3'>
                             Demo
                         </a>
-                         <a href={data.sourse} className='btn btn-warning'>
+                         <a href={data.source} className='btn btn-warning'>
                             Code
                         </a>
                       </div>

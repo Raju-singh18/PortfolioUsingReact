@@ -8,7 +8,7 @@ import { Projects } from './Components/Projects'
 import { Contact } from './Components/Contact'
 import Aos from "aos"
 import "aos/dist/aos.css"
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 
 function App() {
 
@@ -16,10 +16,12 @@ function App() {
     Aos.init();
   },[])
    
+ const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     
-      <div className="main">
-        <Navbar/> 
+      <div className="main" >
+        <Navbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/> 
         <Home/> 
         <Education/>
         <Skills/>

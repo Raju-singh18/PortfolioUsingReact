@@ -7,7 +7,7 @@ export const Education = () => {
        <div className="container ed" id='Education'>
           <h1
           data-aos="zoom-out-right"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           >Education</h1>
           {
             education.map((data)=>{
@@ -15,7 +15,7 @@ export const Education = () => {
                  <>
                     <div key={data.id} className='ed-items text-center my-5'
                      data-aos="zoom-in"
-                     data-aos-duration="1000"
+                     data-aos-duration="500"
                     >
                         <div className="left">
                             <img src={data.imageSrc} alt="" />
