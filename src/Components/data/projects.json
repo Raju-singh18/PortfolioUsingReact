@@ -6,8 +6,8 @@
     "title": "WEATHER APP",
     "imageSrc": "https://pics.craiyon.com/2023-11-16/wHGM0abcSOWVL1p6KEsCZw.webp",
     "description": "This is a project made with html,CSS & Javascript",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://raju-singh18.github.io/Weather-App/",
+    "source": "https://github.com/Raju-singh18/Weather-App/tree/main"
   },
   {
     "key": 2,
@@ -15,15 +15,15 @@
     "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simon_Electronic_Game.jpg/1200px-Simon_Electronic_Game.jpg",
     "description": "This is a project made with html,CSS & Javascript",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Raju-singh18/Simon-game"
   },
    {
     "key": 3,
     "title": "CALCULATOR APP",
     "imageSrc": "https://user-images.githubusercontent.com/87682085/157236934-3b77fea4-b3ad-46b4-a067-210cd7eb4438.png",
     "description": "This is a project made with html,CSS & Javascript",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://raju-singh18.github.io/Calculator-App/",
+    "source": "https://github.com/Raju-singh18/Calculator-App"
   },
   {
     "key": 4,
@@ -39,7 +39,7 @@
     "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh7PTcPoUVdv7MgIAVGpEDD0amCk5EN-olw&s",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Raju-singh18/PortfolioUsingReact"
   }
 ]
 
