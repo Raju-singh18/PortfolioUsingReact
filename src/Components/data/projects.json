@@ -38,7 +38,7 @@
     "title": "PORTFOLIO WEBSITE",
     "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh7PTcPoUVdv7MgIAVGpEDD0amCk5EN-olw&s",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
+    "demo": "https://rajusinghportfolio.netlify.app/",
     "source": "https://github.com/Raju-singh18/PortfolioUsingReact"
   }
 ]
